@@ -11,7 +11,7 @@ lane boundaries from dashcam footage.
 ![Lane Detection Output](output_image.jpg)
 
 ### Video
-[![Lane Detection Video](output_image.jpg)](output_video.mp4)
+[▶ Click to watch output video](output_video.mp4)
 
 ## How it works
 
